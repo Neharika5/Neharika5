@@ -3,7 +3,7 @@
 <h3 align="center">A Cybersecurity enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://animesher.com/orig/1/187/1874/18747/animesher.com_beautiful-anime-girl-gif-1874716.gif">
 
-- 🔭 I’m currently working on [Password Strength Tester](https://github.com/Neharika5/Password-Strength-Tester)
+- 🔭 I’m currently working on Mobile App Security Assessment with Dynamic Analysis . 
 
 - 🌱 I’m currently learning **Cybersecurity and Networking**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Networks,Machine learning, AWS**
 
 - 📫 How to reach me **neharikakumar05@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KMTlEzYsUSnjE9aymmVSD5JaboMKLgY7/view?usp=drive_link](https://drive.google.com/file/d/1KMTlEzYsUSnjE9aymmVSD5JaboMKLgY7/view?usp=drive_link)
 
 - ⚡ Fun fact **I am optimistic and Goal oriented**
 
