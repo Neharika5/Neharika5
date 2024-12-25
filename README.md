@@ -3,7 +3,7 @@
 <h3 align="center">A Cybersecurity enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://animesher.com/orig/1/187/1874/18747/animesher.com_beautiful-anime-girl-gif-1874716.gif">
 
-- 🔭 I’m currently working on Mobile App Security Assessment with Dynamic Analysis . 
+- 🔭 I’m currently working on network intrusion detection system  . 
 
 - 🌱 I’m currently learning **Cybersecurity and Networking**
 
